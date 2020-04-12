@@ -1,0 +1,25 @@
+{
+  "name": "nodejs-cli-boilerplate",
+  "version": "0.0.1",
+  "description": "",
+  "main": "./bin/index.js",
+  "scripts": {
+    "init": "npm i -S colors commander configstore inquirer",
+    "link": "sudo npm link",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/synzhang/nodejs-cli-boilerplate.git"
+  },
+  "keywords": [
+    "nodejs",
+    "cli"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/synzhang/nodejs-cli-boilerplate/issues"
+  },
+  "homepage": "https://github.com/synzhang/nodejs-cli-boilerplate#readme"
+}
