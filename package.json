@@ -4,7 +4,7 @@
   "description": "",
   "main": "./bin/index.js",
   "scripts": {
-    "init": "npm i -S colors commander configstore inquirer",
+    "init": "npm i -S inquirer chalk commander configstore",
     "link": "sudo npm link",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
